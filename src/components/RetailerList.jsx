@@ -1,5 +1,3 @@
-"use client"
-
 import { useState, useEffect } from "react"
 import { Search, PhoneIcon as WhatsApp, LocateOffIcon as LocationOn, ListFilterIcon as FilterList } from "lucide-react"
 import { Button } from "./ui/button"
